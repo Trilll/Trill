@@ -12,4 +12,4 @@
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[linkedin]: https://www.linkedin.com/in/alexander-g
+[linkedin]: [https://www.linkedin.com/in/alexander-g](https://www.linkedin.com/in/alexander-g-55389514a/)
